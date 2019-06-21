@@ -1,12 +1,19 @@
-{"employees":[
+[
   {
+   "id" : 1001
    "lastname" : "Inot",
    "firstname" : "Gabriel Angelo",
-   "middlename" : "Punzalan"
+   "middlename" : "Punzalan",
+   "address" : "Pacita Complex I",
+   "hobbies" : "Basketball"
+
   }, 
   {
-    "lastname" : "Cruz",
+   id : 1002
+   "lastname" : "Cruz",
    "firstname" : "Janeczka Louise",
-   "middlename" : "Morado"
+   "middlename" : "Morado",
+   "address" : "Las Pinas City",
+   "hobbies" : "ML"
   }
-]}
+]
