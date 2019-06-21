@@ -15,5 +15,37 @@
    "middlename" : "Morado",
    "address" : "Las Pinas City",
    "hobbies" : "ML"
+  }, 
+  {
+   "id" : 1003,
+   "lastname" : "Zuckmybird",
+   "firstname" : "Mark",
+   "middlename" : "Spy",
+   "address" : "Facebook",
+   "hobbies" : "Hacking"
+  }, 
+  {
+   "id" : 1004,
+   "lastname" : "Gates",
+   "firstname" : "Bill",
+   "middlename" : "Welp",
+   "address" : "USA",
+   "hobbies" : "Oil"
+  }, 
+  {
+   "id" : 1005,
+   "lastname" : "Payumo",
+   "firstname" : "Xandrei Coleen",
+   "middlename" : "Cruz",
+   "address" : "Las Pinas City",
+   "hobbies" : "Pony"
+  },
+  {
+   "id" : 1006,
+   "lastname" : "Erandio",
+   "firstname" : "Darren",
+   "middlename" : "Welp",
+   "address" : "Batangas",
+   "hobbies" : "Summoners War"
   }
 ]
