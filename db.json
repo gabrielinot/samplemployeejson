@@ -1,6 +1,6 @@
 [
   {
-   "id" : 1001
+   "id" : 1001,
    "lastname" : "Inot",
    "firstname" : "Gabriel Angelo",
    "middlename" : "Punzalan",
@@ -9,7 +9,7 @@
 
   }, 
   {
-   id : 1002
+   "id" : 1002,
    "lastname" : "Cruz",
    "firstname" : "Janeczka Louise",
    "middlename" : "Morado",
